@@ -1,3 +1,5 @@
-body {background-color: rgb(4, 64, 143)}
+body{#grad {
+    background-image: linear-gradient(purple ,yellow ,green );
+  }
 h1 {color: rgb(99, 5, 117)}
 p {color:rgb(116, 21, 179) }
