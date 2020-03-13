@@ -1,0 +1,5 @@
+AuthName "I Love You, You hold the key to my heart."
+AuthType Basic
+AuthUserFile /customers/1/9/7/thechaoseffect.us/httpd.www/.htpasswd
+AuthGroupFile /dev/null 
+require valid-user
