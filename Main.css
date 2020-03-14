@@ -32,3 +32,4 @@ li a:hover {
 .active {
   background-color: rgb(170, 16, 175);
 }
+h1 { font-family: Coustard; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 24px; } h3 { font-family: Coustard; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 14px; } p { font-family: Coustard; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 14px; } blockquote { font-family: Coustard; font-size: 17.5px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 17.5px; } pre { font-family: Coustard; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 13px; }
